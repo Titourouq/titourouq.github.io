@@ -1,0 +1,9 @@
+---
+title: "CV"
+---
+
+[Download my CV (PDF)](files/CV_Rouquayrol.pdf){.btn .btn-outline-dark}
+
+```{=html}
+<embed src="files/CV_Rouquayrol.pdf" type="application/pdf" width="100%" height="1000px" />
+```

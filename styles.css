@@ -1,0 +1,16 @@
+/* Sober academic style */
+body {
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+h2 {
+  margin-top: 2rem;
+  font-size: 1.3rem;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.3rem;
+}
+
+.navbar-title {
+  font-weight: 600;
+}

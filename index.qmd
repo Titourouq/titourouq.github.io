@@ -1,0 +1,29 @@
+---
+title: "Titouan Rouquayrol"
+subtitle: "PhD Student in Economics"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:titouan.rouquayrol@imt-bs.eu
+    - icon: file-earmark-pdf
+      text: CV
+      href: files/CV_Rouquayrol.pdf
+    - icon: github
+      text: GitHub
+      href: https://github.com/USERNAME
+---
+
+I am a PhD student in Digital Economics and Industrial Organization at [Institut Mines-Télécom Business School](https://www.imt-bs.eu/), supervised by Grazia Cecere and Antonio Russo.
+
+My research focuses on digital economics, industrial organization and the economics of artificial intelligence. I am currently studying how generative AI is used in advertising and media occupations.
+
+Before starting my PhD, I completed a Master in Economics of Markets and Organizations at the Toulouse School of Economics.
+
+## Research interests
+
+Digital Economics · Industrial Organization · Economics of Artificial Intelligence · Labor Economics

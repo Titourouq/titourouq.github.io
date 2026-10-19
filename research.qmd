@@ -1,0 +1,14 @@
+---
+title: "Research"
+---
+
+## Work in progress
+
+**How Is Generative AI Used in Advertising and Media Occupations?**
+<!-- Add co-authors if any: *with Co-Author* -->
+
+One- or two-sentence summary of the research question, data and main finding.
+
+## Presentations
+
+- **14th AFREN Doctoral Workshop**, Mines Paris – PSL, Paris, France — November 2026 *(scheduled)*
