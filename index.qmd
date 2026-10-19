@@ -15,7 +15,7 @@ about:
       href: files/CV_Rouquayrol.pdf
     - icon: github
       text: GitHub
-      href: https://github.com/USERNAME
+      href: https://github.com/titourouq
 ---
 
 I am a PhD student in Digital Economics and Industrial Organization at [Institut Mines-Télécom Business School](https://www.imt-bs.eu/), supervised by Grazia Cecere and Antonio Russo.
