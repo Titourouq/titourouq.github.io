@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Titouan Rouquayrol"
-  site-url: "https://USERNAME.github.io"
+  site-url: "https://titourouq.github.io"
   navbar:
     left:
       - href: index.qmd
@@ -19,7 +19,7 @@ website:
       - icon: envelope
         href: mailto:titouan.rouquayrol@imt-bs.eu
       - icon: github
-        href: https://github.com/USERNAME
+        href: https://github.com/titourouq
   page-footer:
     center: "© 2026 Titouan Rouquayrol"
 
