@@ -7,7 +7,7 @@ title: "Research"
 **How Is Generative AI Used in Advertising and Media Occupations?**
 <!-- Add co-authors if any: *with Co-Author* -->
 
-One- or two-sentence summary of the research question, data and main finding.
+Evidence from Conversations With Claude.ai 
 
 ## Presentations
 
